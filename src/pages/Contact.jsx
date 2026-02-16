@@ -130,7 +130,7 @@ export default function Contact() {
           Phone: <Link href="tel:015906810054">015906810054</Link>
         </Typography>
         <Typography sx={{ mb: 1 }}>
-          Email: <Link href="mailto:Souka.janati@gmail.com">Souka.janati@gmail.com</Link>
+          Email: <Link href="mailto:Souka.janati@gmail.com">soukainaidrissi60@gmail.com</Link>
         </Typography>
         <Typography>Address: 22089 Wandesbeck Chaussee, Hamburg</Typography>
       </Box>

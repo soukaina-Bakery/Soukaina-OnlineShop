@@ -148,7 +148,7 @@ export default function Location() {
             <br />
             Email:{" "}
             <Link href="mailto:Souka.janati@gmail.com">
-              Souka.janati@gmail.com
+             soukainaidrissi60@gmail.com
             </Link>
           </Typography>
         </Box>

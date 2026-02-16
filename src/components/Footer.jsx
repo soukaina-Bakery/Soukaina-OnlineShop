@@ -95,7 +95,7 @@ export default function Footer() {
       </Box>
 
       <Typography variant="caption" color="text.secondary" sx={{ textAlign: "center" }}>
-        &copy; 2023 Soukina Cakery
+        &copy; 2026 Soukaina Cakery
       </Typography>
     </Box>
   );
