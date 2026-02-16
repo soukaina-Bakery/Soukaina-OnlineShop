@@ -13,17 +13,17 @@ import cake11 from "../assets/cake11.jpeg";
 import cake12 from "../assets/cake12.jpeg";
 
 const products = [
-  { name: "Futbol Cake", price: "€60.00", image: cake1, category: "cake" },
-  { name: "Butterfly Cake", price: "€60.00", image: cake2, category: "cake" },
-  { name: "Flower Cake", price: "€50.00", image: cake8, category: "cake" },
-  { name: "Pistachio Cake", price: "€79.00", image: cake5, category: "cake" },
-  { name: "IT Cake", price: "€89.50", image: cake7, category: "cake" },
-  { name: "Alphabet Cake", price: "€49.50", image: cake10, category: "cake" },
-  { name: "Superman Cake", price: "€39.50", image: cake9, category: "cake" },
-  { name: "Fruit Cake", price: "€49.50", image: cake8, category: "cake" },
-  { name: "Flower Birthday Cake", price: "€59.50", image: cake4, category: "cake" },
-  { name: "Chocolate Birthday Cake", price: "€59.50", image: cake11, category: "cake" },
-  { name: "Funny Cake", price: "€38.50", image: cake12, category: "cake" },
+  { name: "Inspiration Cake", price: "€60.00", image: cake1, category: "cake" },
+  { name: "Inspiration Cake", price: "€60.00", image: cake2, category: "cake" },
+  { name: "Inspiration Cake", price: "€50.00", image: cake8, category: "cake" },
+  { name: "Inspiration Cake", price: "€79.00", image: cake5, category: "cake" },
+  { name: "Inspiration Cake", price: "€89.50", image: cake7, category: "cake" },
+  { name: "Inspiration Cake", price: "€49.50", image: cake10, category: "cake" },
+  { name: "Inspiration Cake", price: "€39.50", image: cake9, category: "cake" },
+  { name: "Inspiration Cake", price: "€49.50", image: cake8, category: "cake" },
+  { name: "Inspiration Cake", price: "€59.50", image: cake4, category: "cake" },
+  { name: "Inspiration  Cake", price: "€59.50", image: cake11, category: "cake" },
+  { name: "Inspiration Cake", price: "€38.50", image: cake12, category: "cake" },
 ];
 
 export default function Store() {
@@ -69,7 +69,7 @@ export default function Store() {
 
       {/* Product grid */}
       <Typography variant="h4" textAlign="center" mb={3}>
-        Tortas
+        Cakes
       </Typography>
 
       <Box

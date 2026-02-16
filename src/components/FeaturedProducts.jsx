@@ -14,7 +14,7 @@ import torte1 from "../assets/torte1.jpg";
 
 const products = [
   { title: "Wedding Cake", price: "€250.00", image: weddingCake },
-  { title: "Month Baby Cake", price: "€45.00", image: torte1 },
+  { title: "Shape Cake", price: "€45.00", image: torte1 },
 ];
 
 export default function FeaturedProducts() {
