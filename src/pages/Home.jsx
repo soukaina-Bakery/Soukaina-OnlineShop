@@ -3,7 +3,7 @@ import FeaturedProducts from "../components/FeaturedProducts";
 import { Box, Typography, Button } from "@mui/material";
 import { Link } from "react-router-dom";
 import cover from "../assets/cover.jpg";
-import logo from "../assets/soukaina.jpg";
+import logo from "../assets/soukaina1.png";
 
 export default function Home() {
   return (
