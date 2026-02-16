@@ -8,7 +8,7 @@ export default function Contact() {
   // Async function to send form data
   const sendForm = async (formData) => {
     try {
-      const response = await fetch("https://formspree.io/f/xovglnvy", {
+      const response = await fetch("https://formspree.io/f/mojnwaok", {
         method: "POST",
         headers: {
           Accept: "application/json",
