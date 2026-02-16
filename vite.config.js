@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/bakery-soukaina/',
+  base: "/Soukaina-OnlineShop/",
   plugins: [react()],
 })
